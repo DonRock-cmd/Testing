@@ -1,3 +1,3 @@
 # What To Do
 
-practise GIT!
+practise GIT! an hour a day!
